@@ -10,3 +10,8 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   *Telnet
   *RPVST
 Sientete libre de explorar las configuraciones y de modificarlos
+
+ Laboratorios de Packet Tracer
+## VLANs
+### VLAN básica
+#### Configuración del switch
