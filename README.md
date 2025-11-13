@@ -17,6 +17,7 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - Root Guard
   - DTP
   - VTP
+  - CDP
   - WLC y Light Weight AP
 
 Sientete libre de explorar las configuraciones y de modificarlos  
