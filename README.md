@@ -11,6 +11,7 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - DNS
   - SSH
   - ROAS (Router On a Stick)
+  - HSRP
   - Telnet
   - RPVST
   - STP
