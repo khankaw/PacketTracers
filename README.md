@@ -7,7 +7,7 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - ACL
   - Etherchannel
   - RIP
-  - DHCP, DHCP Relay
+  - DHCP, DHCP Relay, DHCP Snooping
   - DNS
   - SSH
   - ROAS (Router On a Stick)
