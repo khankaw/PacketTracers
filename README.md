@@ -8,6 +8,7 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - Etherchannel
   - RIP
   - DHCP, DHCP Relay, DHCP Snooping
+  - ARP Inspection
   - DNS
   - SSH
   - ROAS (Router On a Stick)
