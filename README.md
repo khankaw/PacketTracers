@@ -4,7 +4,7 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - IPv6 básico y routing estático 
   - OSPF
   - EIGRP
-  - ACL
+  - ACL (Standard & Extended)
   - Etherchannel
   - RIP
   - DHCP, DHCP Relay, DHCP Snooping
