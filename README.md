@@ -23,6 +23,7 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - Port Security
   - CDP
   - WLC y Light Weight AP
+  - GRE
 
 Sientete libre de explorar las configuraciones y de modificarlos  
 Los nombres son indicadores de las configuraciones que se tratan en cada ejercicio, además de que cada archivo tiene notas dentro indicando como se realizaron las configuraciones de los equipos explicando pequeños conceptos e ilustrando comandos
