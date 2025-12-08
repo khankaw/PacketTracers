@@ -24,9 +24,11 @@ Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde
   - CDP
   - WLC y Light Weight AP
   - GRE
+  - IPSec
 
 Sientete libre de explorar las configuraciones y de modificarlos  
 Los nombres son indicadores de las configuraciones que se tratan en cada ejercicio, además de que cada archivo tiene notas dentro indicando como se realizaron las configuraciones de los equipos explicando pequeños conceptos e ilustrando comandos
+*Pueden contener errores*
 
 Ejemplos:  
 
@@ -38,3 +40,6 @@ Ejemplos:
 
 **WLC**
 <img width="1345" height="421" alt="Red3" src="https://github.com/user-attachments/assets/0c0afd05-ec51-40bc-b8e8-b33c4f607e00" />
+
+**ROAS, HTTP, SSH, ACL, DHCP, IPsec,NTP**
+<img width="1203" height="416" alt="IPSEC" src="https://github.com/user-attachments/assets/79f4f8c4-025e-4c1e-a4be-356bd4813b1e" />
