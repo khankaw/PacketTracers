@@ -1,6 +1,6 @@
-**Laboratorio de Cisco PacketTracers**  
+**Laboratorio de Cisco PacketTracer**  
 
-Este repositorio contiene algunos ejercicios resueltos de packet tracer en donde se ven configuraciones como:
+Este repositorio contiene algunos ejercicios resueltos de Packet Tracer en donde se ven configuraciones como:
   - IPv6 básico y routing estático 
   - OSPF
   - EIGRP
